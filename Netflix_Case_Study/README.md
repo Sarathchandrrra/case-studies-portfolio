@@ -33,10 +33,6 @@ This project helps understand user content preferences and trends, which are ess
 - Product design and regional personalization
 - Beginners learning data analysis and visualization
 
-##  Status
-
-Completed and ready for portfolio showcase.
-
 ---
 
 > Created by **Sarath** 
