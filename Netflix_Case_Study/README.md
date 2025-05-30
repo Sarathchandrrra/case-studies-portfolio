@@ -31,7 +31,6 @@ To explore and analyze Netflix’s content catalog using real-world data to unco
 This project helps understand user content preferences and trends, which are essential for:
 - Business decision-making in content acquisition
 - Product design and regional personalization
-- Beginners learning data analysis and visualization
 
 ---
 
